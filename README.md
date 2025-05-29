@@ -9,7 +9,7 @@
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   	![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   # CodeWart
+   # Codewars
    ![](https://www.codewars.com/users/Brit47/badges/large)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BRIT47rus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
