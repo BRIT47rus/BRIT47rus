@@ -11,6 +11,8 @@
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    # Codewars
    ![](https://www.codewars.com/users/Brit47/badges/large)
+   ![](https://vk.com/vovirus)
+   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BRIT47rus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BRIT47rus&theme=dark&hide_border=false)<br/>
