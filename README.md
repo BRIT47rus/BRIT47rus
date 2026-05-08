@@ -20,4 +20,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BRIT47rus&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIT47rus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIT47rus)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIT47rus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIT47rus&theme=dark&hide_border=false&layout=compact)
